@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const host = "localhost";
 const port = "27017";
-const db = "bdchomau"; //Base de datos se llama bdchomau
+const db = "bdchomau"; //Base de datos de llama bdchomau
 
 
 exports.mongoConnect =() => {
